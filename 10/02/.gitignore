@@ -1,0 +1,8 @@
+*.java
+*.class
+*.tokens
+*.interp
+.idea/
+.mvn
+*.iml
+target/
